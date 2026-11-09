@@ -20,6 +20,8 @@ I led the website's planning, design, development, and launch for the [Deep Ecol
 
 I am developing **BODHI (Biodiversity Observation and Data for Hyperlocal Intelligence)**, a research initiative exploring how bioacoustics, environmental observations, and satellite-derived information can support local conservation decisions. This work is in development; public examples will be shared as they become ready.
 
+[**Read the BODHI R&D case study**](projects/bodhi-rd.md)
+
 ## Areas I work in
 
 - **Web products:** Next.js, React, TypeScript, responsive interfaces, accessible information design
